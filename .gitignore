@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.log
+
+# Bash history
+.bash_history
+
+# Environment/secrets
+.env
+.env.*
+!.env.example
